@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@400;600;700&display=swap');
+.findeContainer{
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: monospace;
+}
+
+button {
+    width:inherit;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: large;
+}
+
+.divFinder > input {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: large;
+}
+
+.divFinder > ul > li > h1 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size:xx-large;
+    text-align: center;
+}

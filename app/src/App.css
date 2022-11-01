@@ -1,0 +1,43 @@
+.App {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   /*  background-color: darkblue;
+    height: 90vh; */
+}
+
+/* header {
+    display: flex;
+    justify-content: space-around;
+}
+
+footer {
+    position: relative;
+    bottom: 20px;
+    justify-content: center;
+    align-items: center;
+
+} */
+header {
+    background:#8A1A1C;
+    border: solid black 2px;
+    position: relative;
+    justify-content: space-between;
+    height: 40px;
+    z-index: 4;
+    width: 100%;
+    top: 0;
+    margin: 0;
+
+}
+
+footer {
+    
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    bottom:-44px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}

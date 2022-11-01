@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@400;600;700&display=swap');
+
+body {
+    background-color: darkblue;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+    bottom: auto;
+}
+
+button {
+    border-radius: 3px;
+    background-color: #F79A1B;
+    font-weight: bold;
+ 
+
+}
