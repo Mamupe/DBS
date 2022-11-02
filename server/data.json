@@ -12,6 +12,17 @@
       "originplanet": "Desconocido"
     },
     {
+      "id": 125,
+      "name": "Zeno",
+      "specie": "Desconocido",
+      "role": "Rey de todo",
+      "imageUrl": "https://i.ibb.co/qjpJnSF/Zeno-Artwork.webp",
+      "status": "Vivo",
+      "universe": "0",
+      "transform": null,
+      "originplanet": "Desconocido"
+    },
+    {
       "id": 4,
       "name": "Iwen",
       "specie": "Desconocido",
@@ -19,6 +30,39 @@
       "imageUrl": "https://i.ibb.co/MgdVTQc/Iwen.webp",
       "status": "Vivo",
       "universe": "1",
+      "transform": null,
+      "originplanet": "Desconocido"
+    },
+    {
+      "id": 1,
+      "name": "Awamo",
+      "specie": "Angel",
+      "role": "Angel",
+      "imageUrl": "https://i.ibb.co/wBwpLqH/Awamo.webp",
+      "status": "Vivo",
+      "universe": "1",
+      "transform": null,
+      "originplanet": "Desconocido"
+    },
+    {
+      "id": 16,
+      "name": "Anat",
+      "specie": "Desconocido",
+      "role": "Kaio-shin",
+      "imageUrl": "https://i.ibb.co/P61L9sF/Anat.png",
+      "status": "Vivo",
+      "universe": "1",
+      "transform": null,
+      "originplanet": "Desconocido"
+    },
+    {
+      "id": 88,
+      "name": "Dyrasem",
+      "specie": "Desconocido",
+      "role": "Guerrero universo 10",
+      "imageUrl": "https://i.ibb.co/WHWxV4q/Jirasen-render.webp",
+      "status": "Vivo",
+      "universe": "10",
       "transform": null,
       "originplanet": "Desconocido"
     },
@@ -166,17 +210,6 @@
       "originplanet": "Desconocido"
     },
     {
-      "id": 87,
-      "name": "Obni",
-      "specie": "Desconocido",
-      "role": "Guerrero universo 10",
-      "imageUrl": "https://i.ibb.co/5WK7Q9W/Obuni-render.webp",
-      "status": "Vivo",
-      "universe": "10",
-      "transform": null,
-      "originplanet": "Desconocido"
-    },
-    {
       "id": 89,
       "name": "Rubalt",
       "specie": "Desconocido",
@@ -237,6 +270,17 @@
       "specie": "Desconocido",
       "role": "Guerrero universo 11",
       "imageUrl": "https://i.ibb.co/H4nzh7p/Kettle-render.webp",
+      "status": "Vivo",
+      "universe": "11",
+      "transform": null,
+      "originplanet": "Desconocido"
+    },
+    {
+      "id": 104,
+      "name": "Zoirei",
+      "specie": "Desconocido",
+      "role": "Guerrero universo 11",
+      "imageUrl": "https://i.ibb.co/w6ZSYZp/Zoirei-render.webp",
       "status": "Vivo",
       "universe": "11",
       "transform": null,

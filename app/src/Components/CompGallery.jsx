@@ -13,7 +13,7 @@ import axios from "axios";
               let data = await fetch ("http://localhost:8080/characters").then(
                 (res) => res.json()
               );
-        /* console.log(data) */
+        
               setCharacterList(data);
             })();
           }, []);

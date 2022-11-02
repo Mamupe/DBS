@@ -14,6 +14,7 @@ button {
     width:inherit;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: large;
+    cursor: pointer;
 }
 
 .divFinder > input {
