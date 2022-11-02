@@ -1,13 +1,17 @@
-import React from 'react';
-import './Detail.css';
-import { useParams } from 'react-router-dom';
-import { useState, useEffect } from 'react';
+import React from 'react'
+import "./Detail.css"
+import { useParams } from "react-router-dom";
+import { useState, useEffect } from "react";
+
 
 const Detail = () => {
+
+
+
   const [character, setCharacter] = useState({});
 
   const params = useParams();
-
+ 
   const { id } = params;
 
   useEffect(() => {
@@ -24,15 +28,12 @@ const Detail = () => {
     <div className="character">
       {character ? (
         <figure className="cardDiv">
-          <h3 className="encabezado">{character.name}</h3>
-          <img className="cardDetail" src={character.imageUrl} alt={character.name} />
-          <h4 className="caract">
-            Especie: {character.specie} || Estatus: {character.status}{' '}
-          </h4>
-
-          <h4 className="caract">
-            Universo: {character.universe} || Planeta: {character.originplanet}
-          </h4>
+          <h3 className='encabezado'>{character.name}</h3>
+          <img className='cardDetail' src={character.imageUrl} alt={character.name} />
+          <h4 className='caract'>Especie: {character.specie}  ||  Estatus: {character.status} </h4>
+          
+          <h4 className='caract'>Universo: {character.universe}  ||  Planeta: {character.originplanet}</h4>
+         
         </figure>
       ) : (
         <div>Not Exists</div>
@@ -41,4 +42,7 @@ const Detail = () => {
   );
 };
 
-export default Detail;
+
+
+
+export default Detail

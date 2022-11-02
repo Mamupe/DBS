@@ -1407,6 +1407,15 @@
       "universe": "9",
       "transform": null,
       "originplanet": "Desconocido"
+    },
+    {
+      "name": "Mutenroy",
+      "imageUrl": "https://res.cloudinary.com/dghnwllrc/image/upload/v1667318226/RoshiMax_kt9haz.webp",
+      "specie": "Humano",
+      "status": "Vivo",
+      "universe": "Via lactea",
+      "originplanet": "Tierra",
+      "id": 130
     }
   ]
 }
