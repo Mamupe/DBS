@@ -19,8 +19,8 @@ footer {
 
 } */
 header {
-    background:#8A1A1C;
-    border: solid black 2px;
+   /*  background:#8A1A1C;
+    border: solid black 2px; */
     position: relative;
     justify-content: space-between;
     height: 40px;

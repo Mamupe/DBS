@@ -595,17 +595,6 @@
       "originplanet": "Desconocido"
     },
     {
-      "id": 13,
-      "name": "Catopesra",
-      "specie": "Ciborg",
-      "role": "Guerrero universo 3",
-      "imageUrl": "https://i.ibb.co/6wdbJjq/Katopesla-render.webp",
-      "status": "Vivo",
-      "universe": "3",
-      "transform": null,
-      "originplanet": "Desconocido"
-    },
-    {
       "id": 14,
       "name": "Boraleta",
       "specie": "Ciborg",
@@ -1299,50 +1288,6 @@
       "originplanet": "Desconocido"
     },
     {
-      "id": 71,
-      "name": "Comfrey",
-      "specie": "Desconocido",
-      "role": "Guerrero universo 9",
-      "imageUrl": "https://i.ibb.co/QD1SBMx/Comfrey-render.webp",
-      "status": "Vivo",
-      "universe": "9",
-      "transform": null,
-      "originplanet": "Desconocido"
-    },
-    {
-      "id": 64,
-      "name": "Lou",
-      "specie": "Desconocido",
-      "role": "Kaio-shin",
-      "imageUrl": "https://i.ibb.co/hKZxyvg/Rou.webp",
-      "status": "Vivo",
-      "universe": "9",
-      "transform": null,
-      "originplanet": "Desconocido"
-    },
-    {
-      "id": 66,
-      "name": "Sidra",
-      "specie": "Desconocido",
-      "role": "Dios de la destruccion",
-      "imageUrl": "https://i.ibb.co/5Y6cRpM/Sidra.webp",
-      "status": "Vivo",
-      "universe": "9",
-      "transform": null,
-      "originplanet": "Desconocido"
-    },
-    {
-      "id": 69,
-      "name": "Lavenda",
-      "specie": "Desconocido",
-      "role": "Guerrero universo 9",
-      "imageUrl": "https://i.ibb.co/tmkkhQz/Lavenda.webp",
-      "status": "Vivo",
-      "universe": "9",
-      "transform": null,
-      "originplanet": "Desconocido"
-    },
-    {
       "id": 65,
       "name": "Mojito",
       "specie": "Angel",
@@ -1354,65 +1299,10 @@
       "originplanet": "Desconocido"
     },
     {
-      "id": 68,
-      "name": "Bergamo",
-      "specie": "Desconocido",
-      "role": "Guerrero universo 9",
-      "imageUrl": "https://i.ibb.co/zrMjhPq/Bergamo.webp",
-      "status": "Vivo",
-      "universe": "9",
-      "transform": null,
-      "originplanet": "Desconocido"
-    },
-    {
-      "id": 75,
-      "name": "Hyssop",
-      "specie": "Desconocido",
-      "role": "Guerrero universo 9",
-      "imageUrl": "https://i.ibb.co/S5m8R7b/Hyssop-render.webp",
-      "status": "Vivo",
-      "universe": "9",
-      "transform": null,
-      "originplanet": "Desconocido"
-    },
-    {
-      "id": 67,
-      "name": "Basil",
-      "specie": "Desconocido",
-      "role": "Guerrero universo 9",
-      "imageUrl": "https://i.ibb.co/8KnRN4Y/Basil.webp",
-      "status": "Vivo",
-      "universe": "9",
-      "transform": null,
-      "originplanet": "Desconocido"
-    },
-    {
-      "id": 74,
-      "name": "Orégano",
-      "specie": "Desconocido",
-      "role": "Guerrero universo 9",
-      "imageUrl": "https://i.ibb.co/tJxdCwD/Oregano-render.webp",
-      "status": "Vivo",
-      "universe": "9",
-      "transform": null,
-      "originplanet": "Desconocido"
-    },
-    {
-      "id": 76,
-      "name": "Roselle",
-      "specie": "Desconocido",
-      "role": "Guerrero universo 9",
-      "imageUrl": "https://i.ibb.co/MDGngHW/Roselle-render.webp",
-      "status": "Vivo",
-      "universe": "9",
-      "transform": null,
-      "originplanet": "Desconocido"
-    },
-    {
-      "name": "Mutenroy",
-      "imageUrl": "https://res.cloudinary.com/dghnwllrc/image/upload/v1667318226/RoshiMax_kt9haz.webp",
-      "specie": "Humano",
-      "status": "Vivo",
+      "name": "C17",
+      "imageUrl": "https://res.cloudinary.com/dghnwllrc/image/upload/v1667416050/c17_pfbgqe.png",
+      "specie": "Androide",
+      "status": "Muerto",
       "universe": "Via lactea",
       "originplanet": "Tierra",
       "id": 130

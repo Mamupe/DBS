@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@400;600;700&display=swap');
-
+/* .App {
+    margin:0;
+    background-size: cover;
+    background-image: url(https://res.cloudinary.com/dghnwllrc/image/upload/v1667404111/90885_ycrtyn.jpg);
+} */
 .cabecera {
     object-fit: cover;
-    width: 85%;
-    height: 85%
+    width: 80%;
+    height: 80%
 }
 .homeContainer {
     display: flex;

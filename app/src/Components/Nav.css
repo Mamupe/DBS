@@ -1,22 +1,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@400;600;700&display=swap');
 
+@font-face {
+    font-family: 'Saiyan-Sans';
+    src: url(../public/fonts/Saiyan-Sans.ttf);
+}
+
 .nav {
     display: flex;
     margin-top: 9px;
     justify-content: space-around;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: x-large;
-    font-weight:bolder;
+    font-family: 'Saiyan-Sans', sans-serif;
+    font-size:xx-large;
+    font-weight: lighter;
+    letter-spacing: 4px;
+   
     
     
+}
+
+.divhome{
+    border: solid white 2px;
+    border-radius: 4px;
+    background-color: #901A1E;
 }
  
 .divhome > a  {
     text-decoration: none;
-    color: aliceblue;
+    color: #FFF100; 
+    padding:6px;
+    
+}
+
+.divgallery {
+    border: solid white 2px;
+    border-radius: 4px;
+    background-color: #FFF100;
 }
 
 .divgallery > a {
     text-decoration: none;
-    color: aliceblue;
+    color: #901A1E;
+    padding:6px;
+    
 }

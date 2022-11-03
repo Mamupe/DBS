@@ -5,16 +5,15 @@ import { useEffect, useState } from 'react';
 import { useDebounce } from 'use-debounce';
 
 export const CodeFetchingInput = () => {
-  const [filter, setFilter] = useState('Son Goku');
-  const [debounceFilter] = useDebounce(filter, 500);
+  const [filter, setFilter] = useState('Goten');
+  const [debounceFilter] = useDebounce(filter, 1500);
   const [dbsCollection, setDbsCollection] = useState([]);
 
   useEffect(() => {
     const getDbsFiltered = async () => {
-      const dbsList = await fetch(
-        `https://dragon-ball-super-api.herokuapp.com/api/characters/${filter}`,
-      );
+      const dbsList = await fetch(`http://localhost:8080/characters?name=${filter}`);
       const dbsListToJson = await dbsList.json();
+      console.log(dbsListToJson);
 
       return {
         ...dbsListToJson,
@@ -22,7 +21,7 @@ export const CodeFetchingInput = () => {
         image: dbsListToJson.imageUrl,
       };
     };
-    getDbsFiltered().then((dbs) => setDbsCollection([dbs]));
+    getDbsFiltered().then((dbs) => setDbsCollection([dbs[0]]));
   }, [debounceFilter]);
 
   return (
